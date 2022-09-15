@@ -1,6 +1,10 @@
 # Go simple web server
 
+![Mega.nz](https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat&logo=Go&logoColor=white&color=blue) 
+
 用go标准库 `net/http` 实现一个简陋（40行）的webserver
+
+无额外依赖
 
 File tree
 
